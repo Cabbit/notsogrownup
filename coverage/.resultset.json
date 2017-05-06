@@ -1,0 +1,121 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/Users/davidroy/Sites/notsogrownup.com/app/models/forum.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/test/models/forum/post_test.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/models/forum/post.rb": [
+        1,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/controllers/forum/posts_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        2,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        4,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/davidroy/Sites/notsogrownup.com/app/helpers/forum/posts_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1494072060
+  }
+}
